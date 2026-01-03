@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "jhon wesley",
+      "email": "brjhonws@gmail.com",
+      "password": "cor123",
+      "createdAt": "2026-01-03T01:55:14.045Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Fazer um revisção de tarefa no siscor",
+      "description": "",
+      "priority": "medium",
+      "dueDate": "",
+      "status": "todo",
+      "createdAt": "2026-01-03T01:55:29.035Z",
+      "updatedAt": "2026-01-03T01:55:29.035Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "income",
+      "description": "sada",
+      "amount": 1231,
+      "category": "Investimentos",
+      "date": "2026-01-03",
+      "notes": "",
+      "createdAt": "2026-01-03T01:55:40.922Z",
+      "updatedAt": "2026-01-03T01:55:40.922Z"
+    }
+  ]
+}
